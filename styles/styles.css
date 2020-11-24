@@ -1,0 +1,11 @@
+body {
+  font-family: 'Zilla Slab', Georgia, serif;
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
